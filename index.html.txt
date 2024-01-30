@@ -1,5 +1,3 @@
-
-Copy code
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -62,28 +60,27 @@ Copy code
         </section>
 
         <section>
-    <h2>Book Reviews</h2>
-    <p>Discover insightful reviews of literary works that will ignite your passion for reading.</p>
-    <ul>
-        <li>
-            <strong>"Broken Wings" by Khalil Gibran</strong>
-            <p>
-                "Broken Wings" is a novel penned by Khalil Gibran and published in the early 20th century in 1912. The author, known for works like "The Prophet" and "The Madman," faced neglect from scholars and critics but continued his work for improvement.
-            </p>
-            <p>
-                The story revolves around Khalil, who falls in love with a beautiful lady named Salma. His life is marked by sorrow, hardship, and obstacles. Khalil dreams of living in a beautiful heaven and encounters a mysterious lady in his dreams.
-            </p>
-            <p>
-                The narrative takes a poignant turn when Khalil meets Salma, his father's friend's daughter. They fall in love, but due to financial constraints, they are unable to marry. Salma eventually marries a wealthy but cruel man. Tragically, during childbirth, Salma passes away, leaving Khalil devastated and mentally broken.
-            </p>
-            <p>
-                "Broken Wings" is a profound exploration of love, loss, and the complexities of life. Khalil Gibran's masterful storytelling brings to life a narrative that resonates with the human experience.
-            </p>
-        </li>
-        <!-- Add more book reviews as needed -->
-    </ul>
-</section>
-
+            <h2>Book Reviews</h2>
+            <p>Discover insightful reviews of literary works that will ignite your passion for reading.</p>
+            <ul>
+                <li>
+                    <strong>"Broken Wings" by Khalil Gibran</strong>
+                    <p>
+                        "Broken Wings" is a novel penned by Khalil Gibran and published in the early 20th century in 1912. The author, known for works like "The Prophet" and "The Madman," faced neglect from scholars and critics but continued his work for improvement.
+                    </p>
+                    <p>
+                        The story revolves around Khalil, who falls in love with a beautiful lady named Salma. His life is marked by sorrow, hardship, and obstacles. Khalil dreams of living in a beautiful heaven and encounters a mysterious lady in his dreams.
+                    </p>
+                    <p>
+                        The narrative takes a poignant turn when Khalil meets Salma, his father's friend's daughter. They fall in love, but due to financial constraints, they are unable to marry. Salma eventually marries a wealthy but cruel man. Tragically, during childbirth, Salma passes away, leaving Khalil devastated and mentally broken.
+                    </p>
+                    <p>
+                        "Broken Wings" is a profound exploration of love, loss, and the complexities of life. Khalil Gibran's masterful storytelling brings to life a narrative that resonates with the human experience.
+                    </p>
+                </li>
+                <!-- Add more book reviews as needed -->
+            </ul>
+        </section>
 
         <section>
             <h2>Poetry Corner</h2>
