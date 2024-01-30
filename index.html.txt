@@ -1,0 +1,93 @@
+
+Copy code
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dead Poets Society</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            color: black;
+        }
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: white;
+        }
+        main {
+            margin-top: 20px;
+        }
+        section {
+            margin-bottom: 30px;
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            line-height: 1.5;
+            color: #555;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        footer {
+            margin-top: 50px;
+            text-align: center;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Dead Poets Society</h1>
+        <p>Carpe Diem - Seize the Day!</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Welcome to Dead Poets Society</h2>
+            <p>
+                Explore the beauty of literature, poetry, and the profound impact of words. 
+                Carpe Diem, seize the day, and embark on a journey through the timeless works of poets.
+            </p>
+        </section>
+
+        <section>
+            <h2>Book Reviews</h2>
+            <p>Discover insightful reviews of literary works that will ignite your passion for reading.</p>
+        </section>
+
+        <section>
+            <h2>Poetry Corner</h2>
+            <p>Immerse yourself in the world of poetry. Let the verses speak to your soul.</p>
+        </section>
+
+        <section>
+            <h2>Book Recommendations</h2>
+            <p>Curated lists to guide beginners through the world of literature. Start your reading journey here.</p>
+        </section>
+
+        <section>
+            <h2>The Importance of Literature for Beginners</h2>
+            <p>
+                Literature enriches our lives, offering insights into different cultures, perspectives, and human experiences.
+                It opens doors to empathy and understanding. Dive into the world of words, and you'll find a lifelong companion in literature.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Contact: emaanfatimasoomro@gmail.com | &copy; 2024 Dead Poets Society. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
